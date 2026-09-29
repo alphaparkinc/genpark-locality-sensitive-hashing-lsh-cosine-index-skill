@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-locality-sensitive-hashing-lsh-cosine-index-skill"
+version = "1.0.0"
+description = "Random hyperplane Locality-Sensitive Hashing (LSH) for sub-linear cosine similarity candidate generation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
