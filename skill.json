@@ -1,0 +1,20 @@
+{
+  "name": "genpark-locality-sensitive-hashing-lsh-cosine-index-skill",
+  "version": "1.0.0",
+  "description": "Random hyperplane Locality-Sensitive Hashing (LSH) for sub-linear cosine similarity candidate generation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "lsh-cosine",
+    "locality-sensitive-hashing",
+    "hyperplane-hashing",
+    "ann-search",
+    "cosine-similarity",
+    "python-standard-library",
+    "agent-skills",
+    "vector-retrieval",
+    "hashing",
+    "developer-tools"
+  ]
+}
